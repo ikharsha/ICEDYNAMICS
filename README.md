@@ -74,4 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-Remember to replace placeholders such as `your-username` and add the `LICENSE` file accordingly. Also, feel free to customize the content to match the specifics of your project. Once you have created your GitHub repository, you can create a new file named `README.md` and paste the template content there.
