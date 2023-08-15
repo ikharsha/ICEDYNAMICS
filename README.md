@@ -72,5 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [scikit-learn](https://scikit-learn.org/): Machine learning library used for regression algorithms.
 - [Pandas](https://pandas.pydata.org/): Data manipulation library used for handling the dataset.
 
-```
 
